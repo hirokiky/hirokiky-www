@@ -1,0 +1,277 @@
+/*
+ * default.css_t
+ * ~~~~~~~~~~~~~
+ *
+ * Sphinx stylesheet -- default theme.
+ *
+ * :copyright: Copyright 2007-2014 by the Sphinx team, see AUTHORS.
+ * :license: BSD, see LICENSE for details.
+ *
+ */
+
+@import url("basic.css");
+
+/* -- page layout ----------------------------------------------------------- */
+
+body {
+    font-family: sans-serif;
+    font-size: 100%;
+    background-color: #f8f8f8;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+div.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    border-top: 1px solid #888888;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.4);
+}
+div.document {}
+
+div.documentwrapper {
+    width: 100%;
+}
+
+div.bodywrapper {}
+
+div.body {
+    background-color: #ffffff;
+    color: #333333;
+    min-height: 300px;
+    padding: 65px 80px 75px 80px;
+}
+
+div.footer {
+    background-color: #133f52;
+    border-top: 1px solid #103a4a;
+    color: #ffffff;
+    padding: 9px 0 9px 0;
+    text-align: center;
+    font-size: 75%;
+}
+
+div.footer a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+div.related {
+    line-height: 30px;
+}
+
+div.related1 .related {
+    background-color: #ffffff;
+    color: #666666;
+}
+
+div.related1 .related a {
+    color: #666666;
+}
+
+div.related2 .related {
+    background-color: #144458;
+    border-top: 1px solid #103a4a;
+    border-bottom: 1px solid #103a4a;
+    color: #ffffff;
+}
+
+div.related2 .related a {
+    color: #ffffff;
+}
+
+div.bottombar {
+    text-align: center;
+    background-color: #133f52;
+    padding: 10px;
+}
+
+div.bottombar ul {
+    padding: 0;
+    margin: 0 140px 0 140px;
+    list-style: none outside none;
+}
+div.bottombar ul li {
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 0;
+    float: left;
+    width: 140px;
+}
+
+div.bottombar ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#searchbox {
+    font-size: 0.8em;
+}
+
+#searchbox input[type="text"] {
+    width: 150px;
+    border-radius: 4px;
+    border: 1px solid #888888;
+    padding: 6px;
+    margin: 30px 0 10px 0;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.4) inset;
+}
+
+/* -- hyperlink styles ------------------------------------------------------ */
+
+a {
+    color: #355f7c;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #355f7c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* -- body styles ----------------------------------------------------------- */
+
+div.body h1,
+div.body h2,
+div.body h3,
+div.body h4,
+div.body h5,
+div.body h6 {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+div.body h1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+div.body h2 { font-size: 160%; }
+div.body h3 { font-size: 140%; }
+div.body h4 { font-size: 120%; }
+div.body h5 { font-size: 110%; }
+div.body h6 { font-size: 100%; }
+
+a.headerlink {
+    color: #c60f0f;
+    font-size: 0.8em;
+    padding: 0 4px 0 4px;
+    text-decoration: none;
+}
+
+a.headerlink:hover {
+    background-color: #c60f0f;
+    color: white;
+}
+
+div.body p, div.body dd, div.body li {
+    text-align: justify;
+    line-height: 130%;
+}
+
+div.admonition p.admonition-title + p {
+    display: inline;
+}
+
+div.admonition p {
+    margin-bottom: 5px;
+}
+
+div.admonition pre {
+    margin-bottom: 5px;
+}
+
+div.admonition ul, div.admonition ol {
+    margin-bottom: 5px;
+}
+
+div.note {
+    background-color: #eee;
+    border: 1px solid #ccc;
+}
+
+div.seealso {
+    background-color: #ffc;
+    border: 1px solid #ff6;
+}
+
+div.topic {
+    background-color: #eee;
+}
+
+div.warning {
+    background-color: #ffe4e4;
+    border: 1px solid #f66;
+}
+
+p.admonition-title {
+    display: inline;
+}
+
+p.admonition-title:after {
+    content: ":";
+}
+
+pre {
+    padding: 5px;
+    background-color: #eeffcc;
+    color: #333333;
+    line-height: 120%;
+    border: 1px solid #ac9;
+    border-left: none;
+    border-right: none;
+}
+
+tt {
+    background-color: #ecf0f3;
+    padding: 0 1px 0 1px;
+    font-size: 0.95em;
+}
+
+th {
+    background-color: #ede;
+}
+
+.warning tt {
+    background: #efc2c2;
+}
+
+.note tt {
+    background: #d6d6d6;
+}
+
+.viewcode-back {
+    font-family: sans-serif;
+}
+
+div.viewcode-block:target {
+    background-color: #f4debf;
+    border-top: 1px solid #ac9;
+    border-bottom: 1px solid #ac9;
+}
+
+div.toctree-wrapper {
+    margin: 10px 0 60px 0;
+}
+
+div.toctree-wrapper ul li {
+    line-height: 200%;
+    max-width: 550px;
+}
+
+div.toctree-wrapper ul li.toctree-l1 {
+    border-bottom: 1px dotted #666666;
+    list-style: none outside none;
+}
