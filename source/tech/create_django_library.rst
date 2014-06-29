@@ -1,9 +1,12 @@
 How to create your first Django library
 =======================================
 
-This is a guide way to create first third-party django library or application, attempting to be kindly.
+:Page Status: Complete
+:Last Reviewed: 2014-06-30
+
+This is a guide how to create first third-party django library or application, attempting to be kindly.
 Django documentation tell you way to create django's projects and applications.
-But there isn't (perhaps) way to distribute those applications like above packages.
+But there isn't (perhaps) way to distribute applications like `django-cms`, `django-blog-zinnia`.
 So, I'll show you it.
 
 .. contents::
