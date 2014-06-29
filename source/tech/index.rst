@@ -6,6 +6,7 @@ Index page for technical articles.
 .. toctree::
     :maxdepth: 1
 
+    create_django_library
     typescript_and_webassets
     comparing_url_by_django
     using_djangos_raw
