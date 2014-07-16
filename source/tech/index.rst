@@ -6,6 +6,7 @@ Index page for technical articles.
 .. toctree::
     :maxdepth: 1
 
+    europython2014/index
     create_django_library
     typescript_and_webassets
     comparing_url_by_django
