@@ -31,7 +31,7 @@ All of things I created and contributed are available on next section.
 
 May be Django. This year I joined one of django authors.
 
-Or, `Uiro framework <https://uiro.readthedocs.org/en/latest/>`_.
+Or, Uiro framework.
 
 And I created many libraries this year:
 
