@@ -24,6 +24,8 @@ Services
 Libraries
 ---------
 
+`dripper <https://pypi.python.org/pypi/dripper>`_
+    A utility library to clean up messy dictionary data.
 `django-reportmail <https://pypi.python.org/pypi/django-reportmail>`_
     A django library to send ‘report’ mail. Almost django management commands used
     as night batch processing, and then, administrators will want to know the result as mail.
@@ -43,6 +45,8 @@ Libraries
 Command line tools
 ------------------
 
+`mkbasicauth <https://github.com/hirokiky/mkbasicauth>`_
+    A command line tool to generate Basic auth credentials.
 `genaa <https://pypi.python.org/pypi/genaa>`_
     An ASCII-Art generator.
 
