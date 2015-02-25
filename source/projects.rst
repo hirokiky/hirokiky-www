@@ -8,14 +8,18 @@ or make a ticket at own issue tracker. All of my projects are hosted on :ref:`re
 Services
 --------
 
-`Karmaid <http://karmaid.org>`_
+`Karmaid <http://karmaid.org/>`_
+    (not available)
     Karma ++/-- for everything. You can do increment or decrement for some ascii strings
     and create buttons for ++/--.
+    The source code is on GitHub https://github.com/hirokiky/karmaid/
 `Pushosu <http://pushosu.hirokiky.org>`_
-    Provide buttons to tweet boilerplate sentences. (not available)
+    (not available)
+    Provide buttons to tweet boilerplate sentences.
 `Sinboon <http://sinboon.hirokiky.org>`_
+    (not available)
     A web feed reader to consider user's liking and filtering
-    articles user may not be interested in. (not available)
+    articles user may not be interested in.
 
 Libraries
 ---------
