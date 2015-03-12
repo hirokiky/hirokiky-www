@@ -1,4 +1,7 @@
 Essays
 ======
 
-No contents yet.
+Index page for essays.
+
+.. toctree::
+    :maxdepth: 1
