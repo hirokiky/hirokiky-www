@@ -51,3 +51,8 @@ Another
 * `Tumblr <http://hirokiky.tumblr.com/>`_
 * `so old blog <http://d.hatena.ne.jp/hirokiky>`_
 * `worthless complaining <http://hirokiky.plog.la>`_
+
+We are hiring
+-------------
+
+BePROUDではPythonエンジニアを募集しています http://jobs.beproud.jp/

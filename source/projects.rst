@@ -8,18 +8,24 @@ or make a ticket at own issue tracker. All of my projects are hosted on :ref:`re
 Services
 --------
 
-`Karmaid <http://karmaid.org>`_
+`Karmaid <http://karmaid.org/>`_
+    (not available)
     Karma ++/-- for everything. You can do increment or decrement for some ascii strings
     and create buttons for ++/--.
+    The source code is on GitHub https://github.com/hirokiky/karmaid/
 `Pushosu <http://pushosu.hirokiky.org>`_
-    Provide buttons to tweet boilerplate sentences. (not available)
+    (not available)
+    Provide buttons to tweet boilerplate sentences.
 `Sinboon <http://sinboon.hirokiky.org>`_
+    (not available)
     A web feed reader to consider user's liking and filtering
-    articles user may not be interested in. (not available)
+    articles user may not be interested in.
 
 Libraries
 ---------
 
+`dripper <https://pypi.python.org/pypi/dripper>`_
+    A utility library to clean up messy dictionary data.
 `django-reportmail <https://pypi.python.org/pypi/django-reportmail>`_
     A django library to send ‘report’ mail. Almost django management commands used
     as night batch processing, and then, administrators will want to know the result as mail.
@@ -39,6 +45,8 @@ Libraries
 Command line tools
 ------------------
 
+`mkbasicauth <https://github.com/hirokiky/mkbasicauth>`_
+    A command line tool to generate Basic auth credentials.
 `genaa <https://pypi.python.org/pypi/genaa>`_
     An ASCII-Art generator.
 

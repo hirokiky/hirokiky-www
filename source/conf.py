@@ -240,7 +240,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'hirokiky-www', u'hirokiky-www Documentation',
-   u'Hiroki KIYOHARA', 'hirokiky-www', 'One line description of project.',
+   u'Hiroki KIYOHARA', 'hirokiky-www', "hirokiky's articles",
    'Miscellaneous'),
 ]
 
