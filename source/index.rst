@@ -18,6 +18,7 @@ hirokiky
    books
    tech/index
    essays/index
+   cooking/index
 
 
 Welcome to my piece of the Web. I'm Hiroki KIYOHARA.
