@@ -54,3 +54,12 @@
 
 .. image:: butter_curry/butter_curry9.jpg
     :width: 300px
+
+参考文献
+================
+
+* https://www.sbfoods.co.jp/recipe/detail.php?rcd=04105
+* http://cookpad.com/recipe/2849169
+* http://cookpad.com/recipe/3062335
+* http://cookpad.com/recipe/2537422
+* http://cookpad.com/recipe/2945958
