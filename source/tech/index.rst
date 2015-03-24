@@ -6,6 +6,7 @@ Index page for technical articles.
 .. toctree::
     :maxdepth: 1
 
+    how_to_change_keyboard_to_dvorak
     europython2014/index
     create_django_library
     typescript_and_webassets
