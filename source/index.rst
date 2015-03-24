@@ -15,7 +15,6 @@ hirokiky
 
    aboutme
    projects
-   books
    tech/index
    cooking/index
    essays/index
