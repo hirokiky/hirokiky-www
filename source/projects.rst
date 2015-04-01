@@ -5,21 +5,14 @@ Here, you can find all of my projects, created application, libraries, utility t
 If you have some question or find some bugs, please :ref:`contact` me
 or make a ticket at own issue tracker. All of my projects are hosted on :ref:`repositories`.
 
-Services
---------
+Books
+-----
 
-`Karmaid <https://github.com/hirokiky/karmaid/>`_
-    (not available)
-    Karma ++/-- for everything. You can do increment or decrement for some ascii strings
-    and create buttons for ++/--.
-    The source code is on GitHub https://github.com/hirokiky/karmaid/
-Pushosu
-    (not available)
-    Provide buttons to tweet boilerplate sentences.
-Sinboon
-    (not available)
-    A web feed reader to consider user's liking and filtering
-    articles user may not be interested in.
+Books I wrote or joined.
+
+.. raw:: html
+
+    <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=hirokikywww-22&o=9&p=8&l=as1&asins=479804315X&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 Libraries
 ---------
@@ -49,6 +42,22 @@ Command line tools
     A command line tool to generate Basic auth credentials.
 `genaa <https://pypi.python.org/pypi/genaa>`_
     An ASCII-Art generator.
+
+Services
+--------
+
+`Karmaid <https://github.com/hirokiky/karmaid/>`_
+    (not available)
+    Karma ++/-- for everything. You can do increment or decrement for some ascii strings
+    and create buttons for ++/--.
+    The source code is on GitHub https://github.com/hirokiky/karmaid/
+Pushosu
+    (not available)
+    Provide buttons to tweet boilerplate sentences.
+Sinboon
+    (not available)
+    A web feed reader to consider user's liking and filtering
+    articles user may not be interested in.
 
 Experimental
 ------------
