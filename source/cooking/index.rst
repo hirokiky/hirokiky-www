@@ -8,4 +8,4 @@ Basically, writen by Japanese.
 .. toctree::
     :maxdepth: 1
 
-    バターチキンカレー
+    butter_chicken_curry
