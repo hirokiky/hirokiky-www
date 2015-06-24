@@ -17,6 +17,7 @@ hirokiky
    projects
    tech/index
    cooking/index
+   translations/index
    essays/index
 
 
