@@ -2,7 +2,7 @@ How to create your first Django library
 =======================================
 
 :Page Status: Complete
-:Last Reviewed: 2014-06-30
+:Last Reviewed: 2017-02-11
 
 This is a guide how to create first third-party django library or application, attempting to be kindly.
 Django documentation tell you way to create django's projects and applications.
@@ -65,7 +65,7 @@ For more detail about git, refer `the git official site <http://git-scm.com/>`_.
 2. Packaging
 ------------
 To distribute your app/lib, make it as a package.
-Just thing you need to do is putting `settings.py` file under the `django-myapp` directory
+Just thing you need to do is putting `setup.py` file under the `django-myapp` directory
 meaning next to `myapp` directory.
 
 The contents of this file will contain information about your package, name, version,
