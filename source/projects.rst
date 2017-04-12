@@ -5,6 +5,12 @@ Here, you can find all of my projects, created application, libraries, utility t
 If you have some question or find some bugs, please :ref:`contact` me
 or make a ticket at own issue tracker. All of my projects are hosted on :ref:`repositories`.
 
+PyQ
+-------
+
+`PyQ <https://pyq.jp/>`_ is an online platform to lean Python.
+It has been as my job on `BeProud <http://berpoud.jp>`_. and I and my team created this from Zero to One.
+
 Native Apps
 -----------
 
