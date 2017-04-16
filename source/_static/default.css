@@ -14,7 +14,10 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: sans-serif;
+    font-family: "Helvetica", "Arial", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
     font-size: 100%;
     background-color: #f8f8f8;
     color: #333333;
@@ -45,8 +48,7 @@ div.body {
 }
 
 div.footer {
-    background-color: #133f52;
-    border-top: 1px solid #103a4a;
+    background-color: #1a364e;
     color: #ffffff;
     padding: 9px 0 9px 0;
     text-align: center;
@@ -72,9 +74,7 @@ div.related1 .related a {
 }
 
 div.related2 .related {
-    background-color: #144458;
-    border-top: 1px solid #103a4a;
-    border-bottom: 1px solid #103a4a;
+    background-color: #1d405f;
     color: #ffffff;
 }
 
@@ -84,14 +84,15 @@ div.related2 .related a {
 
 div.bottombar {
     text-align: center;
-    background-color: #133f52;
-    padding: 10px;
+    background-color: #1a364e;
+    padding: 40px 10px;
 }
 
 div.bottombar ul {
     padding: 0;
     margin: 0 140px 0 140px;
     list-style: none outside none;
+    font-size: 20px;
 }
 div.bottombar ul li {
     text-align: center;
@@ -111,7 +112,8 @@ div.bottombar ul li a {
 }
 
 #searchbox input[type="text"] {
-    width: 150px;
+    width: 300px;
+    height: 20px;
     border-radius: 4px;
     border: 1px solid #888888;
     padding: 6px;
@@ -159,7 +161,13 @@ div.body h1 {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
     border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
-div.body h2 { font-size: 160%; }
+div.body h2 {
+    font-size: 160%;
+    margin: 40px 0 20px 0;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 8px;
+}
 div.body h3 { font-size: 140%; }
 div.body h4 { font-size: 120%; }
 div.body h5 { font-size: 110%; }
@@ -179,7 +187,7 @@ a.headerlink:hover {
 
 div.body p {
     text-align: justify;
-    margin: 20px;
+    margin: 20px 0;
     line-height: 180%;
 }
 
