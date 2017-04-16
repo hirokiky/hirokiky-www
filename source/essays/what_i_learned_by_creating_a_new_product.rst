@@ -6,13 +6,18 @@
 
 今日は `PyQ <https://pyq.jp/>`_ の正式リリースの日です！
 
-.. tweet:: https://twitter.com/hirokiky/status/852009005509627904
+.. raw:: html
 
-こんにちは。@hirokikyです。
+    <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">BPでPythonのオンライン学習サービス「PyQ（パイキュー）」をリリースしました！めちゃくちゃすごいです。この1年がむしゃらに作ってきた集大成 <a href="https://t.co/R0iZPVAJlg">https://t.co/R0iZPVAJlg</a></p>&mdash; Hiroki KIYOHARA (@hirokiky) <a href="https://twitter.com/hirokiky/status/852009005509627904">2017年4月12日</a></blockquote>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+こんにちは。 @hirokiky です。
 これはヒヨッコだった僕が、僕たちが1年で勉強した、製品の企画、開発、価格戦略、マーケティング戦略の話です。
 チームのみんなで勉強して奮闘した1年でした。
 
 .. contents::
+
+さて、どんな話なんでしょう。
 
 自信過剰のヒヨッコ、ky
 ----------------------------------
