@@ -7,3 +7,5 @@ Index page for essays.
     :maxdepth: 1
 
     what_i_learned_by_creating_a_new_product
+    butter_chicken_curry
+    empowered_1
