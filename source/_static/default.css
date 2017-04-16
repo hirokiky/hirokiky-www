@@ -47,6 +47,15 @@ div.body {
     padding: 65px 80px 75px 80px;
 }
 
+div.social-buttons {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+div.social-buttons > *:not(:first-child) {
+  margin-left: 20px;
+}
+
 div.footer {
     background-color: #1a364e;
     color: #ffffff;
