@@ -26,7 +26,7 @@ div.wrapper {
     width: 960px;
     margin: 0 auto;
     border-top: 1px solid #888888;
-    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
 }
 div.document {}
 
@@ -40,6 +40,7 @@ div.body {
     background-color: #ffffff;
     color: #333333;
     min-height: 300px;
+    font-size: 18px;
     padding: 65px 80px 75px 80px;
 }
 
@@ -176,7 +177,13 @@ a.headerlink:hover {
     color: white;
 }
 
-div.body p, div.body dd, div.body li {
+div.body p {
+    text-align: justify;
+    margin: 20px;
+    line-height: 180%;
+}
+
+div.body dd, div.body li {
     text-align: justify;
     line-height: 130%;
 }
@@ -272,6 +279,7 @@ div.toctree-wrapper ul li {
 }
 
 div.toctree-wrapper ul li.toctree-l1 {
+    font-size: 20px;
     border-bottom: 1px dotted #666666;
     list-style: none outside none;
 }
