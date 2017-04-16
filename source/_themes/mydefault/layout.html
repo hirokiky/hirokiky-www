@@ -12,17 +12,17 @@ Sphinx layout template for the default theme.
 {% block extrahead %}
 <meta property="og:title" content="{{ title|striptags|e }}{{ titlesuffix }}">
 <meta property="og:description" content="{{ body|striptags|e|truncate(90) }}">
-<meta property="og:image" content="http://hirokiky.org/{{ pathto('_img/hirokiky.jpg', True)}}">
+<meta property="og:image" content="http://hirokiky.org/_img/hirokiky.jpg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="hirokiky.org">
 <meta name="twitter:domain" content="hirokiky.org">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ title|striptags|e }}{{ titlesuffix }}">
 <meta name="twitter:description" content="{{ body|striptags|e|truncate(90) }}">
-<meta name="twitter:image" content="http://hirokiky.org/{{ pathto('_img/hirokiky.jpg', True)}}">
+<meta name="twitter:image" content="http://hirokiky.org/_img/hirokiky.jpg">
 <meta itemprop="name" content="{{ title|striptags|e }}{{ titlesuffix }}">
 <meta itemprop="description" content="{{ body|striptags|e|truncate(90) }}">
-<meta itemprop="image" content="http://hirokiky.org/{{ pathto('_img/hirokiky.jpg', True)}}">
+<meta itemprop="image" content="http://hirokiky.org/_img/hirokiky.jpg">
 {% endblock %}
 
 {% block header %}
