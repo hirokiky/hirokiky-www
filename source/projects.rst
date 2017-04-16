@@ -8,6 +8,10 @@ or make a ticket at own issue tracker. All of my projects are hosted on :ref:`re
 PyQ
 -------
 
+.. image:: _img/pyq.png
+   :width: 800px
+   :target: https://pyq.jp/
+
 `PyQ <https://pyq.jp/>`_ is an online platform to lean Python.
 It has been as my job on `BeProud <http://berpoud.jp>`_. and I and my team created this from Zero to One.
 
