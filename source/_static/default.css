@@ -50,6 +50,7 @@ div.body {
 div.social-buttons {
   display: flex;
   flex-flow: row nowrap;
+  margin-bottom: 16px;
 }
 
 div.social-buttons > *:not(:first-child) {
