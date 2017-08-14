@@ -18,10 +18,13 @@ hirokiky
    tech/index
    essays/index
 
-
 Welcome to my piece of the Web. I'm Hiroki KIYOHARA.
 You can refer all of my projects, technical articles,
-essays, and characteristics from this site.
+essays, and characteristics from this site. Heres other contents:
+
+* `Blog <http://blog.hirokiky.org/>`_
+* `GitHub @hirokiky <https://github.com/hirokiky>`_
+* `Twitter @hirokiky <https://twitter.com/hirokiky>`_
 
 If you are interested in technologies and softwares,
 first, It's good to refer :doc:`projects` to check what kind of softwares I created.
