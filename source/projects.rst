@@ -33,8 +33,16 @@ Books I wrote or joined.
 
 .. raw:: html
 
-    <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirokikywww-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4774173207" style="width:120px;height:240px;margin-right:20px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-    <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirokikywww-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=479804315X" style="width:120px;height:240px;margin-right:20px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirokikywww-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4774192228&linkId=a168686545cb5a483acf8f9866cb1de8"></iframe>
+
+.. raw:: html
+
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirokikywww-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00ZR7WZOU&linkId=09e53dcea03d7477d2574bd68a7aa70b"></iframe>
+
+.. raw:: html
+
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=hirokikywww-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B00XZTYMG6&linkId=050eee7eeb65cdfe72d78eec682b6fb1"></iframe>
+
 
 PebbleTime
 ----------
