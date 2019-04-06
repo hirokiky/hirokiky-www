@@ -12,7 +12,7 @@ dig-en.com
    :width: 800px
    :target: https://dig-en.com/
 
-`dig-en.com <https://dig-en.com/>`_ is a Web service for english-learners which will analyses english sentences and display difficulties each words.
+`dig-en.com <https://dig-en.com/>`_ is a Web service for english-learners, which will analyses english sentences and display difficulties each words.
 
 PyQ
 -------
