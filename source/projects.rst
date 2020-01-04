@@ -5,6 +5,16 @@ Here, you can find all of my projects, created application, libraries, utility t
 If you have some question or find some bugs, please :ref:`contact` me
 or make a ticket at own issue tracker. All of my projects are hosted on :ref:`repositories`.
 
+Shodo
+-------------------
+
+.. image:: _img/shodo.png
+   :width: 800px
+   :target: https://shodo.ink/
+
+`Shodo <https://shodo.ink/>`_ is a platfrom to write articles (for contents marketing, books, blogs or so) with your team mates.
+There are features like auto prooftexting, Github like review work-flow and so on.
+
 dig-en.com
 -------------------
 
